@@ -29,9 +29,11 @@ Linux (distribuições baseadas em Debian):
 
 
 ```
-<comando_de_instalação>
+<$ sudo apt-get update>
 ```
-
+```
+<$ sudo apt-get install git>
+```
 Windows:
 
 ```
