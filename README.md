@@ -1,4 +1,4 @@
-# Nome do projeto
+# Projeto MATC84
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -27,6 +27,7 @@ Para instalar o Git, siga estas etapas:
 
 Linux (distribuições baseadas em Debian):
 
+
 ```
 <comando_de_instalação>
 ```
@@ -36,6 +37,9 @@ Windows:
 ```
 <comando_de_instalação>
 ```
+Ou
+ * Acesse o site oficial e faça o download do instalador do GIT para Windows.
+  * Depois de baixado, clique duas vezes no arquivo para iniciar o assistente de instalação. Basta seguir as instruções na tela, clicando em Next. Ao término, clique em Finish para concluir com êxito a instalação.
 
 ## 🚀 Instalando o Angular
 
